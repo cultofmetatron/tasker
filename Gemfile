@@ -51,4 +51,6 @@ gem 'bootstrap-sass'
 
 gem 'foreman'
 
+gem 'rack-cors', :require => 'rack/cors'
+
 
