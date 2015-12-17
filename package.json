@@ -27,5 +27,8 @@
     "url": "https://github.com/shakacode/react-webpack-rails-tutorial/issues"
   },
   "homepage": "https://github.com/shakacode/react-webpack-rails-tutorial",
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.8.1",
+    "rx": "^4.0.7"
+  }
 }
