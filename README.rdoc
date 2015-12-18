@@ -2,3 +2,8 @@
 
 https://github.com/cyu/rack-cors
 
+TODO:
+
+login: warden and devise
+rest api:
+    tasks
